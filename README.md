@@ -1,2 +1,2 @@
 # SpeedAudio
-Extensão para Google Chrome que acelera áudio do Whatsapp
+Extensão para Google Chrome que acelera áudios do Whatsapp
